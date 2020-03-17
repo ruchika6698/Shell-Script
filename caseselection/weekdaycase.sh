@@ -15,7 +15,7 @@ case  $N in
 	4)
 		echo "Day is wedenesday"
 	;;
-   5)
+	5)
 		echo "Day is Thursday"
 	;;
 	6)
