@@ -19,6 +19,6 @@ case  $N in
 		echo "Ten Thousand"
 	;;
 	*)
-	echo "Invalid Input"
+		echo "Invalid Input"
 	;;
 esac
